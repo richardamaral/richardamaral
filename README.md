@@ -2,7 +2,7 @@
  
 # Sobre
 
-Olá, sou Richard Amaral. Gosto de conversar, fazer conexões e estou sempre atento às oportunidades no mercado de trabalho. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
+- 🧛 Olá, sou Richard Amaral. Gosto de fazer conexões e estou sempre atento às oportunidades no mercado de trabalho. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
 
 
 ## Experiência/Habilidades
