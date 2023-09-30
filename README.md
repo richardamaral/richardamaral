@@ -10,7 +10,7 @@
 - 🌐 WEBDEV (Desenvolvimento de websites) criei alguns sistemas web, se baseando em informações de outras aplicações em tempo real, utilizando Python (Django/Flask) com API's externas.
 
 - 💼 Auxiliar de Desenvolvimento de Sistemas em uma clinica de medicina ocupacional.
-- 📫 Como entrar em contato comigo:
+# Como entrar em contato comigo:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/3rwONxF)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickcreator156@gmail.com)
 
