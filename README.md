@@ -20,5 +20,4 @@ Olá, sou Richard Amaral. Gosto de conversar, fazer conexões e estou sempre ate
 
 ## Redes Sociais
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/464Q9yO)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_main_ricl/)
