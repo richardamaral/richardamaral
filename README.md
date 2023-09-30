@@ -2,7 +2,7 @@
  
 # Sobre
 
-- 🧛 Olá, sou Richard Amaral. Gosto de fazer conexões e estou sempre em busca de mais conhecimento. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
+- 🧛 Olá, me chamo Richard. Gosto de fazer conexões e estou sempre em busca de mais conhecimento. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
 
 
 ## Experiência/Habilidades
