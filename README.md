@@ -1,4 +1,4 @@
-- 🐍 Python  | 🛢️ Procedures SQL | 🛠️ Selenium | 🔮 Flask
+- 🐍 Python | 🔮 C# | .NET | 🛢️ Procedures SQL | 🛠️ Selenium | 
  
 # Sobre
 
