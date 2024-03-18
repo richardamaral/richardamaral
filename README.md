@@ -7,9 +7,9 @@
 
 ## Experiência/Habilidades
 - 🤖 (Automação de Processos) para criar fluxos realizando troca de informações sincronizada entre sistemas distintos, já criei algumas automações com Python que inibiram algumas tarefas repetitivas que estavam sendo distribuídas a muitos funcionários, assim diminuindo o custo operacional da empresa.
-- 🌐 (Desenvolvimento de websites) criei alguns sistemas web, se baseando em informações de outras aplicações em tempo real, utilizando Python (Django/Flask) com API's externas e também C# MVC para aplicações web que lidam com troca de informações entre tabelas relacionadas.
+- 🌐 (C# MVC .NET/ SQL SERVER) Sou responsável pela manutenção e atualização de um sistema web interno. Nesse papel, utilizo C# MVC .NET em conjunto com SQL Server para realizar as tarefas de manutenção do sistema. Minhas atribuições incluem desde a criação de procedures até a implementação de novas telas, visando aprimorar a gestão de dados em um ambiente com múltiplas tabelas.
 
-- 💼 Analista de Sistemas em uma clinica de medicina ocupacional.
+- 💼 Desenvolvedor Full Stack Júnior em uma clinica de medicina ocupacional.
 ## Como entrar em contato comigo:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/3rwONxF)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickcreator156@gmail.com)
