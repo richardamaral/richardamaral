@@ -7,7 +7,7 @@
 
 ## Experiência/Habilidades
 - 🤖 (Automação de Processos) para criar fluxos realizando troca de informações sincronizada entre sistemas distintos, já desenvolvi algumas automações com Python que inibiram algumas tarefas repetitivas que estavam sendo distribuídas a muitos funcionários, assim diminuindo o custo operacional da empresa.
-- 
+  
 - 🌐 (C# MVC .NET/ SQL SERVER) Sou responsável pela manutenção e atualização de um sistema web interno. Nesse papel, utilizo C# MVC .NET em conjunto com SQL Server para realizar as tarefas de manutenção do sistema. Minhas atribuições incluem desde a criação de procedures até a implementação de novas telas, visando aprimorar a gestão de dados em um ambiente com múltiplas tabelas relacionadas.
 
 - 💼 Desenvolvedor Full Stack Júnior em uma clinica de medicina ocupacional.
