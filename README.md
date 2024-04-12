@@ -1,21 +1,23 @@
-- 🐍 Python | 🔮 C# | ⚙️ ASP.NET MVC | 🛢️ SQL Server | 🤖 Python | 
- 
-# Sobre
-
-- 🧛 Olá, me chamo Richard. Gosto de fazer conexões e estou sempre em busca de mais conhecimento. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
+### Olá, eu sou Richard Amaral! 👋
 
 
-## Experiência/Habilidades
-- 🤖 (Automação de Processos) para criar fluxos realizando troca de informações sincronizada entre sistemas distintos, já desenvolvi algumas automações com Python que inibiram algumas tarefas repetitivas que estavam sendo distribuídas a muitos funcionários, assim diminuindo o custo operacional da empresa.
-  
-- 🌐 (C# MVC .NET/ SQL SERVER) Sou responsável pela manutenção e atualização de um sistema web interno. Nesse papel, utilizo C# MVC .NET em conjunto com SQL Server para realizar as tarefas de manutenção do sistema. Minhas atribuições incluem desde a criação de procedures até a implementação de novas telas, visando aprimorar a gestão de dados em um ambiente com múltiplas tabelas relacionadas.
+### Conecte-se comigo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-amaral-7ab744269/)
 
-- 💼 Desenvolvedor Full Stack Júnior em uma clinica de medicina ocupacional.
-## Como entrar em contato comigo:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/3rwONxF)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickcreator156@gmail.com)
+### 💻 Stacks:
+<div style="display: inline_block"><br/> 
+    <img align="center "alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    <img align="center "alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center "alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-
-
-
-
+### 📊 Estatísticas do GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardamaral&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardamaral&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardamaral&theme=midnight-purple&hide_border=false" height="175" />
+</p>
