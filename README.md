@@ -59,3 +59,7 @@
 
 
 ###
+
+<img src="snake.svg"/>
+
+###
