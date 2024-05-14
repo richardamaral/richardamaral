@@ -36,6 +36,19 @@
 ###
 
 <div align="center">
+  <a href="mailto:rickcreator156@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="48" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/901463690434445342" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="34" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amaralrichard/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="34" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+<div align="center">
   <a href="https://www.linkedin.com/in/amaralrichard/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
