@@ -1,4 +1,11 @@
-<h2 align="left">Richard Amaral</h2>
+- 🧛 Olá, me chamo Richard. Gosto de fazer conexões e estou sempre em busca de mais conhecimento. Sou focado, proativo e adoro resolver problemas desenvolvendo soluções complexas. Vamos compartilhar conhecimento e crescer juntos!
+
+
+## Experiência/Habilidades
+- 🤖 (Automação de Processos) para criar fluxos realizando troca de informações sincronizada entre sistemas distintos, já criei algumas automações com Python que inibiram algumas tarefas repetitivas que estavam sendo distribuídas a muitos funcionários, assim diminuindo o custo operacional da empresa e tornando eficiente processos que eram manuais.
+- 🌐 (C# MVC .NET/ SQL SERVER) Sou responsável pela manutenção e atualização de um sistema Cliente/Servidor Web. Nesse papel, utilizo C# MVC .NET em conjunto com SQL Server para realizar as tarefas de manutenção do sistema ou criação de novas funcionalidades para o sistema. Minhas atribuições incluem desde a elaboração do Controller, Manager e Model em C# juntamente com a criação de query's no SQL SERVER, visando sempre aprimorar nossa gestão de dados até a implementação de novas telas também lidando com o Front-End HTML, CSS e JavaScript.
+
+- 💼 Desenvolvedor Full Stack Júnior em uma clinica de medicina ocupacional.
 
 ###
 
