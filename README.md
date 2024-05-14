@@ -49,17 +49,17 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/richardamaral/count.svg?"  />
+<img src="snake.svg"/>
 
 ###
 
 <br clear="both">
 
+<img align="right" src="https://profile-counter.glitch.me/richardamaral/count.svg?"  />
+
+###
+
 <img align="left" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc4bG9yc21sMWx3MzVyczd6dWppbDdpajRkZm5zMG50cWJvb2NleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif"  />
 
-
 ###
 
-<img src="snake.svg"/>
-
-###
